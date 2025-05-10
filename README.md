@@ -63,7 +63,3 @@ git clone https://github.com/YOUR-USERNAME/Financial-Data-Insights.git
 - All SQL queries are optimized for performance
 - The analysis includes both descriptive and predictive analytics
 - Results can be used for business decision-making and strategy development
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/YOUR-USERNAME/Financial-Data-Insights/issues).
